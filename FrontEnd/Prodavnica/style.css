@@ -1,0 +1,85 @@
+.ProdProiz
+{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.Proizvod
+{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 10px;
+    width: 250px;
+    margin-right: 10px;
+}
+
+.Proizvod label, input, select
+{
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+h4, h3
+{
+    text-align: center;
+}
+
+.Proizvod div
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.Prodavnica
+{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 100%;
+    padding: 5px;
+}
+
+.prikaz
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+}
+
+.kupovina
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.prodaja
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    gap: 5px;
+}
+
+.products
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.barCont
+{
+    border: 2px dotted green;
+    height: 10px;
+    width: 400px;
+    margin-top: 4px;
+}
+
+.bar
+{
+    height: 10px;   
+}
+
+

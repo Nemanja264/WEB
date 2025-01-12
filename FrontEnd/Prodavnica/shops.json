@@ -1,0 +1,17 @@
+[
+    {
+      "naziv": "Super Market",
+      "lokacija": "Glavna ulica 123, Zagreb",
+      "brtel": "+385 1 234 5678"
+    },
+    {
+      "naziv": "Mini Market",
+      "lokacija": "Trg bana Jelačića 45, Split",
+      "brtel": "+385 21 987 6543"
+    },
+    {
+      "naziv": "Farmer's Shop",
+      "lokacija": "Vukovarska 67, Rijeka", 
+      "brtel": "+385 51 333 4444"
+    }
+]
