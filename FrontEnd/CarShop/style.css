@@ -1,0 +1,68 @@
+.App
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.Pretraga
+{
+    width: 200px;
+}
+
+.Pretraga div
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.Pretraga label
+{
+    min-width: 60px;
+    text-align: left;
+}
+
+select
+{
+    width: 100%;
+}
+
+.btnPronadji
+{
+    width: 100%;
+}
+
+.Cars
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.Car
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    height: auto;
+}
+
+.Car label
+{
+    margin: 5px;    
+}
+
+img
+{
+    width: 200px;
+    height: 100px;
+    margin: 5px;
+}
+
+
+

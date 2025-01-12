@@ -1,0 +1,82 @@
+[
+    {
+        "naziv": "Tesla",
+        "model": "Model S",
+        "boja": "Crna",
+        "kolicina": 10,
+        "imgLink": "./pics/teslaCrna.jpg",
+        "cena": 80000
+    },
+    {
+        "naziv": "Tesla",
+        "model": "Model 3",
+        "boja": "Bela",
+        "kolicina": 15,
+        "imgLink": "./pics/teslaBela.jpg",
+        "cena": 60000
+    },
+    {
+        "naziv": "BMW",
+        "model": "X5",
+        "boja": "Siva",
+        "kolicina": 8,
+        "imgLink": "https://media.ed.edmunds-media.com/bmw/x5/2024/oem/2024_bmw_x5_4dr-suv_xdrive50e_fq_oem_1_1600.jpg",
+        "cena": 75000
+    },
+    {
+        "naziv": "BMW",
+        "model": "3 Series",
+        "boja": "Plava",
+        "kolicina": 20,
+        "imgLink": "./pics/bmw3.jpg",
+        "cena": 50000
+    },
+    {
+        "naziv": "Audi",
+        "model": "A6",
+        "boja": "Crna",
+        "kolicina": 12,
+        "imgLink": "./pics/a6.jpg",
+        "cena": 70000
+    },
+    {
+        "naziv": "Audi",
+        "model": "Q7",
+        "boja": "Bela",
+        "kolicina": 5,
+        "imgLink": "./pics/Q7 beli.jpg",
+        "cena": 85000
+    },
+    {
+        "naziv": "Mercedes",
+        "model": "C-Class",
+        "boja": "Crvena",
+        "kolicina": 18,
+        "imgLink": "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2024/oem/2024_mercedes-benz_c-class_sedan_c-300_fq_oem_1_1600.jpg",
+        "cena": 65000
+    },
+    {
+        "naziv": "Mercedes",
+        "model": "E-Class",
+        "boja": "Siva",
+        "kolicina": 10,
+        "imgLink": "./pics/sivaEclassa.jpg",
+        "cena": 75000
+    },
+    {
+        "naziv": "Toyota",
+        "model": "Corolla",
+        "boja": "Crna",
+        "kolicina": 25,
+        "imgLink": "./pics/corolla.jpg",
+        "cena": 30000
+    },
+    {
+        "naziv": "Toyota",
+        "model": "Camry",
+        "boja": "Zelena",
+        "kolicina": 20,
+        "imgLink": "./pics/camry.jpg",
+        "cena": 35000
+    }
+]
