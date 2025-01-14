@@ -1,0 +1,83 @@
+[
+  {
+    "naziv": "FastTrack Logistics",
+    "cena": 150000,
+    "zarada": 0,
+    "lowDate": "2025-01-01",
+    "upperDate": "2025-01-15",
+    "vozila": [
+      {
+        "naziv": "Sprinter Van",
+        "kapacitet": 100000,
+        "maxTezina": 2000,
+        "imgUrl": "https://www.vansdirect.co.uk/custom/102876.jpg"
+      },
+      {
+        "naziv": "Cargo Truck",
+        "kapacitet": 500000,
+        "maxTezina": 8000,
+        "imgUrl": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=800&auto=format&q=80"
+      },
+      {
+        "naziv": "Mini Van",
+        "kapacitet": 60000,
+        "maxTezina": 1000,
+        "imgUrl": "https://images.unsplash.com/photo-1584814361276-819166c17856?w=800&auto=format&q=80"
+      }
+    ]
+  },
+  {
+    "naziv": "Express Couriers",
+    "cena": 120000,
+    "zarada": 0,
+    "lowDate": "2025-02-01",
+    "upperDate": "2025-02-10",
+    "vozila": [
+      {
+        "naziv": "Transit Van",
+        "kapacitet": 120000,
+        "maxTezina": 1800,
+        "imgUrl": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&auto=format&q=80"
+      },
+      {
+        "naziv": "Box Truck",
+        "kapacitet": 450000,
+        "maxTezina": 7000,
+        "imgUrl": "https://images.unsplash.com/photo-1586768035797-760c9e0c23d1?w=800&auto=format&q=80"
+      },
+      {
+        "naziv": "Bicycle Courier",
+        "kapacitet": 5000,
+        "maxTezina": 20,
+        "imgUrl": "https://images.unsplash.com/photo-1571188654248-7a89213915f7?w=800&auto=format&q=80"
+      }
+    ]
+  },
+  {
+    "naziv": "GoGreen Deliveries",
+    "cena": 100000,
+    "zarada": 0,
+    "lowDate": "2025-03-01",
+    "upperDate": "2025-03-20",
+    "vozila": [
+      {
+        "naziv": "Electric Van",
+        "kapacitet": 90000,
+        "maxTezina": 1500,
+        "imgUrl": "https://images.unsplash.com/photo-1605515298946-d062f2e9da53?w=800&auto=format&q=80"
+      },
+      {
+        "naziv": "Electric Cargo Bike",
+        "kapacitet": 8000,
+        "maxTezina": 100,
+        "imgUrl": "https://images.unsplash.com/photo-1597358371607-5987dd7da3d6?w=800&auto=format&q=80"
+      },
+      {
+        "naziv": "Small Cargo EV",
+        "kapacitet": 70000,
+        "maxTezina": 1200,
+        "imgUrl": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800&auto=format&q=80"
+      }
+    ]
+  }
+]
