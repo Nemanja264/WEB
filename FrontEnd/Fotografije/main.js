@@ -70,15 +70,6 @@ function prikaziSlike(host)
     let photos;
 
     prodavnica.crtajSlike(dimenzija, papir);
-
-    /*let dimenzijaSel = host.querySelector(".dimenzija select");
-    let papirSel = host.querySelector(".papir select");
-    let ramSel = host.querySelector(".ram select");
-
-    dimenzijaSel.options[0].selected = true;
-    papirSel.options[0].selected = true;
-    dimenzijaSel.options[0].value = "";
-    papirSel.options[0].value = "";*/
 }
 
 async function drawHeader(host) {
@@ -102,7 +93,7 @@ async function drawHeader(host) {
     }
 }
 
-let prodavnica = null;
+let prodavnica = null; // nemam bazu napravljenu pa ovo glumi bazu // u slucaju da imamo bazu koristio bih metode get(kada trazim neku sliku), delete(za prodaju) 
 async function fetchData(host) {
     try 
     {
