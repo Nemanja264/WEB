@@ -1,0 +1,146 @@
+{
+    "naziv": "Art Gallery Shop",
+    "zarada": 0,
+    "slike": [
+        {
+            "naziv": "Sunset Bliss",
+            "dimenzija": "30x40",
+            "papir": "Glossy",
+            "ram": null,
+            "cena": 1500
+        },
+        {
+            "naziv": "Mountain View",
+            "dimenzija": "50x70",
+            "papir": "Matte",
+            "ram": null,
+            "cena": 2000
+        },
+        {
+            "naziv": "Ocean Wave",
+            "dimenzija": "20x30",
+            "papir": "Canvas",
+            "ram": null,
+            "cena": 1200
+        },
+        {
+            "naziv": "Golden Hour",
+            "dimenzija": "40x60",
+            "papir": "Glossy",
+            "ram": null,
+            "cena": 1800
+        },
+        {
+            "naziv": "City Lights",
+            "dimenzija": "30x45",
+            "papir": "Matte",
+            "ram": null,
+            "cena": 1600
+        },
+        {
+            "naziv": "Forest Trail",
+            "dimenzija": "25x35",
+            "papir": "Glossy",
+            "ram": null,
+            "cena": 1300
+        },
+        {
+            "naziv": "Desert Mirage",
+            "dimenzija": "60x90",
+            "papir": "Canvas",
+            "ram": null,
+            "cena": 2500
+        },
+        {
+            "naziv": "Snowy Peaks",
+            "dimenzija": "50x75",
+            "papir": "Matte",
+            "ram": null,
+            "cena": 2200
+        },
+        {
+            "naziv": "Rainy Day",
+            "dimenzija": "30x40",
+            "papir": "Glossy",
+            "ram": null,
+            "cena": 1500
+        },
+        {
+            "naziv": "Autumn Leaves",
+            "dimenzija": "20x25",
+            "papir": "Matte",
+            "ram": null,
+            "cena": 1100
+        },
+        {
+            "naziv": "Starry Night",
+            "dimenzija": "40x50",
+            "papir": "Canvas",
+            "ram": null,
+            "cena": 1700
+        },
+        {
+            "naziv": "Sunrise Over Hills",
+            "dimenzija": "35x45",
+            "papir": "Glossy",
+            "ram": null,
+            "cena": 1400
+        },
+        {
+            "naziv": "Lake Reflections",
+            "dimenzija": "45x60",
+            "papir": "Matte",
+            "ram": null,
+            "cena": 1900
+        },
+        {
+            "naziv": "Evening Breeze",
+            "dimenzija": "30x40",
+            "papir": "Glossy",
+            "ram": null,
+            "cena": 1600
+        },
+        {
+            "naziv": "Blue Horizon",
+            "dimenzija": "50x70",
+            "papir": "Matte",
+            "ram": null,
+            "cena": 2100
+        },
+        {
+            "naziv": "Lush Meadows",
+            "dimenzija": "30x45",
+            "papir": "Canvas",
+            "ram": null,
+            "cena": 1750
+        },
+        {
+            "naziv": "Moonlit Night",
+            "dimenzija": "25x35",
+            "papir": "Glossy",
+            "ram": null,
+            "cena": 1400
+        },
+        {
+            "naziv": "Coastal View",
+            "dimenzija": "40x60",
+            "papir": "Matte",
+            "ram": null,
+            "cena": 2000
+        },
+        {
+            "naziv": "Vibrant City",
+            "dimenzija": "50x75",
+            "papir": "Canvas",
+            "ram": null,
+            "cena": 2400
+        },
+        {
+            "naziv": "Tranquil River",
+            "dimenzija": "60x90",
+            "papir": "Glossy",
+            "ram": null,
+            "cena": 2800
+        }
+    ]
+}

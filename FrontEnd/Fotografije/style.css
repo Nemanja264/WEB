@@ -1,0 +1,70 @@
+.app
+{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+.form
+{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+
+.header
+{
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.pretraga button
+{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+}
+
+.pretraga
+{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 5px;
+    width: 300px;
+    border-right: 2px solid black;
+}
+
+.pretraga div
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.prikaz
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.slika
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    height: auto;
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+}
+
+
