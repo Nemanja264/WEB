@@ -67,8 +67,6 @@ function prikaziSlike(host)
     let papir = host.querySelector(".papir select").value;
     let dimenzija = host.querySelector(".dimenzija select").value;
 
-    let photos;
-
     prodavnica.crtajSlike(dimenzija, papir);
 }
 
