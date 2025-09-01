@@ -1,0 +1,53 @@
+.page-container
+{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+    width: 100%;
+}
+
+.stan-container
+{
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 500px;
+    gap: 10px;
+    margin: 10px;
+}
+
+.chooser-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+    border: dotted black;
+    padding: 5px;
+}
+
+.stanInfo-container
+{
+    border: dotted black;
+    padding: 5px;
+}
+
+.stanInfo-container label
+{
+    margin-right: 50px;
+}
+
+.racuni-container{
+    display: flex;
+    flex: 1 1 0%;
+    flex-wrap: wrap;
+    gap: 10px;
+    min-width: 0px;
+}
+
+.racun{
+    flex: 0 0 140px;
+    border: solid black;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
