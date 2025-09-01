@@ -1,0 +1,53 @@
+{
+  "stanovi": [
+    {
+      "broj_stana": 1,
+      "ime_vlasnika": "Pera Peric",
+      "povrsina_m2": 36,
+      "broj_clanova": 2,
+      "racuni": [
+        { "racun_id": 101, "mesec": 1, "voda": 200, "struja": 300, "komunalne_usluge": 200, "placen": true },
+        { "racun_id": 102, "mesec": 2, "voda": 200, "struja": 300, "komunalne_usluge": 200, "placen": true },
+        { "racun_id": 103, "mesec": 3, "voda": 200, "struja": 300, "komunalne_usluge": 200, "placen": true },
+        { "racun_id": 104, "mesec": 4, "voda": 200, "struja": 300, "komunalne_usluge": 200, "placen": false },
+        { "racun_id": 105, "mesec": 5, "voda": 250, "struja": 300, "komunalne_usluge": 200, "placen": false }
+      ]
+    },
+    {
+      "broj_stana": 2,
+      "ime_vlasnika": "Mika Mikic",
+      "povrsina_m2": 50,
+      "broj_clanova": 3,
+      "racuni": [
+        { "racun_id": 201, "mesec": 1, "voda": 180, "struja": 450, "komunalne_usluge": 300, "placen": true },
+        { "racun_id": 202, "mesec": 2, "voda": 210, "struja": 450, "komunalne_usluge": 300, "placen": true },
+        { "racun_id": 203, "mesec": 3, "voda": 190, "struja": 450, "komunalne_usluge": 300, "placen": false },
+        { "racun_id": 204, "mesec": 4, "voda": 205, "struja": 450, "komunalne_usluge": 300, "placen": false }
+      ]
+    },
+    {
+      "broj_stana": 3,
+      "ime_vlasnika": "Jelena Jovic",
+      "povrsina_m2": 42,
+      "broj_clanova": 1,
+      "racuni": [
+        { "racun_id": 301, "mesec": 1, "voda": 160, "struja": 150, "komunalne_usluge": 100, "placen": true },
+        { "racun_id": 302, "mesec": 2, "voda": 175, "struja": 150, "komunalne_usluge": 100, "placen": false },
+        { "racun_id": 303, "mesec": 3, "voda": 170, "struja": 150, "komunalne_usluge": 100, "placen": true },
+        { "racun_id": 304, "mesec": 4, "voda": 165, "struja": 150, "komunalne_usluge": 100, "placen": false }
+      ]
+    },
+    {
+      "broj_stana": 4,
+      "ime_vlasnika": "Marko Markovic",
+      "povrsina_m2": 65,
+      "broj_clanova": 4,
+      "racuni": [
+        { "racun_id": 401, "mesec": 1, "voda": 230, "struja": 600, "komunalne_usluge": 400, "placen": true },
+        { "racun_id": 402, "mesec": 2, "voda": 220, "struja": 600, "komunalne_usluge": 400, "placen": true },
+        { "racun_id": 403, "mesec": 3, "voda": 240, "struja": 600, "komunalne_usluge": 400, "placen": false },
+        { "racun_id": 404, "mesec": 4, "voda": 235, "struja": 600, "komunalne_usluge": 400, "placen": false }
+      ]
+    }
+  ]
+}
