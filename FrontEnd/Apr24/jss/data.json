@@ -1,0 +1,48 @@
+{
+  "podesavanja": {
+    "valuta": "RSD",
+    "osnovna_cena_red1": 300,
+    "popust_po_redu_procenat": 3
+  },
+  "sale": [
+    { "id": 1, "naziv": "Sala 1", "redova": 4, "sedista_po_redu": 5 },
+    { "id": 2, "naziv": "Sala 2", "redova": 2, "sedista_po_redu": 3 }
+  ],
+  "projekcije": [
+    { "id": 1001, "film": "Oppenheimer", "termin": "2024-01-29T22:30:00", "sala_id": 1, "sifra": "OPN-454" },
+    { "id": 1002, "film": "Dune: Part Two", "termin": "2024-02-01T20:00:00", "sala_id": 2, "sifra": "DUN-777" }
+  ],
+  "karte": [
+    { "id": 100101, "projekcija_id": 1001, "red": 1, "broj": 1, "cena": 300, "zauzeto": true  },
+    { "id": 100102, "projekcija_id": 1001, "red": 1, "broj": 2, "cena": 300, "zauzeto": true  },
+    { "id": 100103, "projekcija_id": 1001, "red": 1, "broj": 3, "cena": 300, "zauzeto": false },
+    { "id": 100104, "projekcija_id": 1001, "red": 1, "broj": 4, "cena": 300, "zauzeto": true  },
+    { "id": 100105, "projekcija_id": 1001, "red": 1, "broj": 5, "cena": 300, "zauzeto": false },
+
+    { "id": 100111, "projekcija_id": 1001, "red": 2, "broj": 1, "cena": 291, "zauzeto": true  },
+    { "id": 100112, "projekcija_id": 1001, "red": 2, "broj": 2, "cena": 291, "zauzeto": false },
+    { "id": 100113, "projekcija_id": 1001, "red": 2, "broj": 3, "cena": 291, "zauzeto": true  },
+    { "id": 100114, "projekcija_id": 1001, "red": 2, "broj": 4, "cena": 291, "zauzeto": false },
+    { "id": 100115, "projekcija_id": 1001, "red": 2, "broj": 5, "cena": 291, "zauzeto": false },
+
+    { "id": 100121, "projekcija_id": 1001, "red": 3, "broj": 1, "cena": 282, "zauzeto": false },
+    { "id": 100122, "projekcija_id": 1001, "red": 3, "broj": 2, "cena": 282, "zauzeto": true  },
+    { "id": 100123, "projekcija_id": 1001, "red": 3, "broj": 3, "cena": 282, "zauzeto": false },
+    { "id": 100124, "projekcija_id": 1001, "red": 3, "broj": 4, "cena": 282, "zauzeto": true  },
+    { "id": 100125, "projekcija_id": 1001, "red": 3, "broj": 5, "cena": 282, "zauzeto": false },
+
+    { "id": 100131, "projekcija_id": 1001, "red": 4, "broj": 1, "cena": 274, "zauzeto": false },
+    { "id": 100132, "projekcija_id": 1001, "red": 4, "broj": 2, "cena": 274, "zauzeto": true  },
+    { "id": 100133, "projekcija_id": 1001, "red": 4, "broj": 3, "cena": 274, "zauzeto": false },
+    { "id": 100134, "projekcija_id": 1001, "red": 4, "broj": 4, "cena": 274, "zauzeto": true  },
+    { "id": 100135, "projekcija_id": 1001, "red": 4, "broj": 5, "cena": 274, "zauzeto": false },
+
+    { "id": 100201, "projekcija_id": 1002, "red": 1, "broj": 1, "cena": 300, "zauzeto": false },
+    { "id": 100202, "projekcija_id": 1002, "red": 1, "broj": 2, "cena": 300, "zauzeto": true  },
+    { "id": 100203, "projekcija_id": 1002, "red": 1, "broj": 3, "cena": 300, "zauzeto": false },
+    { "id": 100211, "projekcija_id": 1002, "red": 2, "broj": 1, "cena": 291, "zauzeto": false },
+    { "id": 100212, "projekcija_id": 1002, "red": 2, "broj": 2, "cena": 291, "zauzeto": false },
+    { "id": 100212, "projekcija_id": 1002, "red": 2, "broj": 3, "cena": 291, "zauzeto": false }
+
+  ]
+}
